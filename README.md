@@ -27,11 +27,11 @@ The datasets used were:
 
 ## Libraries
 The data analysis and visualization were conducted using Jupyter notebooks in the Python environment, the libraries used:
-*Pandas: for data analysis
-*Numpy: for mathematical equations
-*Seaborn: for data visualizations
-*Matplotlib: for data visualizations
-*Scipy: for mathematical equations
+* Pandas: for data analysis
+* Numpy: for mathematical equations
+* Seaborn: for data visualizations
+* Matplotlib: for data visualizations
+* Scipy: for mathematical equations
 
 ## Folders
 The project folders are stored in the folder structure:
